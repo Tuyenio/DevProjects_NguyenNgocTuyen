@@ -18,7 +18,7 @@ Role: Team Leader and Developer.
 Tools/Technologies: Python, JSON/SQLite for data storage.
 [UNG DUNG QUAN LY THU VIEN SACH]
 
-Description: [dự án là một ứng dụng quản lý thư viện sách, cung cấp các chức năng chính như đăng ký và đăng nhập người dùng, quản lý sách (thêm, sửa, xóa), tìm kiếm sách theo tiêu chí như tên, tác giả, thể loại, cấp phát sách cho người dùng, và thống kê các hoạt động trong thư viện. Hệ thống cũng hỗ trợ quản lý người dùng, phân quyền và giám sát hoạt động của họ.].
+Description: [The project is a library management system that includes features such as user registration and login, book management (add, edit, delete), book search by title, author, or genre, book issuance, and activity statistics. It also includes user management with role-based access control.].
 Key Features: [User Authentication: User registration and login for secure access.
 Book Management: Add, edit, and delete books from the library database.
 Search Functionality: Search books by title, author, or genre for easy access.
