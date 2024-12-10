@@ -8,7 +8,8 @@ This repository showcases my key Python projects, highlighting my skills in soft
 
 Projects
 Library Management Application
-
+Account: admin
+Password: admin
 Description: A Python-based application for managing library operations such as book borrowing and returning.
 Key Features:
 Book catalog management.
