@@ -31,3 +31,5 @@ Python programming
 Team leadership and task delegation
 Problem-solving and debugging
 Time and project management
+Account: admin
+Password: admin
